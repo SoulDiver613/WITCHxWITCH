@@ -1,0 +1,12 @@
+{
+  "maintenance": {
+    "isActive": false,
+    "message": "현재 긴급 서버 점검 중입니다. (14:00~16:00)"
+  },
+  "notice": {
+    "showPopup": true,
+    "title": "할로윈 특별 이벤트 안내!",
+    "body": "지금 접속하면 특별한 스킬 피스를 드립니다.",
+    "linkUrl": "https://souldiver613.github.io/event"
+  }
+}
