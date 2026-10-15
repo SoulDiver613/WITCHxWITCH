@@ -1,0 +1,8 @@
+{
+  "global_damage_multiplier": 1.0,
+  "weapons": {
+    "sword_base_dmg": 15.5,
+    "bow_base_dmg": 12.0
+  },
+  "stage_3_boss_hp": 15000
+}
