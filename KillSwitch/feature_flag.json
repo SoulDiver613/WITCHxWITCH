@@ -1,0 +1,4 @@
+{
+  "disabled_skills": ["skill_fireball_spread", "skill_lightning_chain"],
+  "disabled_items": ["item_cursed_ring"]
+}
